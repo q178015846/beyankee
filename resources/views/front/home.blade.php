@@ -13,8 +13,8 @@
 	    </div>
 	     <div class="btn-toolbar pull-right">
 	        <div class="btn-group">
-	          <a class="btn btn-primary" href="#fakelink"><span class="fui-time"></span></a>
-	          <a class="btn btn-primary" href="#fakelink"><span class="fui-photo"></span></a>
+	          <a class="btn btn-primary" href="#fakelink"><span class="fui-heart"></span></a>
+	          <a class="btn btn-primary" href="#fakelink"><span class="fui-trunk"></span></a>
 	          <a class="btn btn-primary active" href="#fakelink"><span class="fui-heart"></span></a>
 	          <a class="btn btn-primary" href="#fakelink"><span class="fui-eye"></span></a>
 	        </div>
