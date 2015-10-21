@@ -26,7 +26,7 @@ return [
 	|
 	*/
 
-	'url' => 'http://www.beyankee.com/beyankee/public',
+	'url' => 'http://www.beyankee.com',
 
 	/*
 	|--------------------------------------------------------------------------
